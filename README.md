@@ -1,6 +1,8 @@
 About scandir
 =============
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: https://github.com/benhoyt/scandir
 
 Package license: BSD 3-Clause
@@ -17,6 +19,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/scandir-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/scandir-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/scandir-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/scandir-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/scandir-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/scandir-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32e79b302eb707003c12ef/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/scandir-feedstock)
 
 Current release info
 ====================
@@ -104,3 +107,10 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@dotsdl](https://github.com/dotsdl/)
+* [@kain88-de](https://github.com/kain88-de/)
+
